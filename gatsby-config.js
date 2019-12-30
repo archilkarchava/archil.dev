@@ -32,13 +32,14 @@ module.exports = {
     ],
   },
   plugins: [
+    "gatsby-plugin-typescript",
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
+        authorsPage: false,
         sources: {
           local: true,
           // contentful: true,
