@@ -58,5 +58,7 @@ module.exports = {
         icon: `src/assets/favicon.png`,
       },
     },
+    "gatsby-plugin-netlify",
+    "gatsby-plugin-netlify-cache"
   ],
 };

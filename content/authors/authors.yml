@@ -1,17 +1,16 @@
-- name: Dennis Brotzky
+- name: Archil Karchava
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
+    Hello, my name is Archil and this is my blog.
   avatar: ./avatars/dennis-brotzky.jpg
   featured: true
   social:
     - name: github
-      url: https://github.com
-    - name: twitter
-      url: https://github.com
-    - name: instagram
-      url: https://github.com
-    - name: dribbble
-      url: https://github.com
-    - name: linkedin
-      url: https://github.com
+      url: https://github.com/archilkarchava
+    # - name: twitter
+    #   url: https://github.com
+    # - name: instagram
+    #   url: https://github.com
+    # - name: dribbble
+    #   url: https://github.com
+    # - name: linkedin
+    #   url: https://github.com
